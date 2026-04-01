@@ -1,6 +1,8 @@
 #Author: Raphael Campos Squilaro
-#Project Name: FP - Loop with for and names
+#Project Name: FP - Loop with for and sum of numbers
 
-names = input('Digite um nome: ')
-for letters in names:
-    print(letters)
+batata = 0
+
+for numero in range(1,6):
+    batata += numero
+    print(f"A soma é: {batata}")
