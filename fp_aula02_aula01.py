@@ -1,15 +1,14 @@
 # Author: Raphael Campos Squilaro
-# Project Name: FP - Program to Calculate Area and Value per Square Meter of a Land with User Input
+# Project Name: FP - hipotenusa calculator program
+# Potência = ** ou pow()
 
-# variável do tipo int é relativa a valores inteiros 
-# a palavra reservada input é usada para receber dados do usuário
-valor1 = int (input('Digite o primeiro valor: '))
-valor2 = int (input('Digite o segundo valor: '))
-soma = valor1 + valor2
-print(soma)
+oposto = float(input("Digite o valor do cateto oposto: "))
+adjacente = float(input("Digite o valor do cateto adjacente: "))
+hipotenusa = ((oposto ** 2) + (adjacente ** 2)) ** 0.5
 
-# para gerar um print com texto, preciso que o texto esteja entre aspas
-print('O resultado da soma é: ', soma)  
+# exibir o número formatado com 2 casas decimais
+print(f"O valor da hipotenusa é: {hipotenusa:.2f}")
 
-# print formatado usando f-string
-print(f'O resultado da soma é: {soma}')
+# round()
+hipotenusa = round(hipotenusa, 2)
+print(f"O valor da hipotenusa é: {hipotenusa}")
