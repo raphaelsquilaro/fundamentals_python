@@ -1,3 +1,5 @@
+#Author: Raphael Campos Squilaro
+
 """1️⃣ A escola IANES fez uma reestruturação em seu sistema de aprovação de alunos, agora para ser aprovado o aluno precisa atender aos requisitos abaixo:
 
 Aprovação vai depender de nota e presença:
