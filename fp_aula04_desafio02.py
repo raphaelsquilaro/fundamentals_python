@@ -1,3 +1,5 @@
+#Author: Raphael Campos Squilaro
+
 #2️⃣ A loja VESTE BEM criou um sistema de fidelidade aos seus clientes, caso o cliente seja cadastrado na loja o mesmo tem 5% de descoto em qualquer compra independente da forma de pagamento, se o cliente não for cadastrado e pagar em dinheiro ou pix terá 3% de desconto, se for no crédito não tem desconto nenhum.
 
 nome = input('Digite o nome do cliente: ')
