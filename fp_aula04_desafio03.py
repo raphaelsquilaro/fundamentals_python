@@ -1,3 +1,5 @@
+#Author: Raphael Campos Squilaro
+
 """3️⃣ Desafio adicional: A empresa BOLOS DE POTE  precisa investir em novos recursos para melhorar seus produto e precisa de R$ 20.000,00 para realizar as melhorias necessárias, o proprietário foi a um banco para fazer um empréstimo e precisa saber se vale a pena fazer esse empréstimo, para tanto precisa de um sistema que faça o cálculo de quanto vai pagar de juros e se atende as necessidades da empresa, não pode pagar mais de 10% do valor do empréstimo, dados abaixo:
 
 Valor do empréstimo: R$ 20.000,00
