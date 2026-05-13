@@ -1,7 +1,60 @@
-Hello everyone!
+# 🐍 Fundamentos de Python
 
-I'm Raphael Campos Squilaro, I'm 17 years old and student from SESI and SENAI
+Este repositório contém meus estudos e exercícios sobre os fundamentos da linguagem Python.  
+O objetivo é praticar lógica de programação, sintaxe da linguagem e conceitos essenciais para desenvolvimento backend, automação e ciência de dados.
 
-This my repository of Python, I'm studying desenvolviment of systems, progration in Python.
+---
 
-I'm had contact with Java, Python, Html, Css, JavaScript, Flutter, Dart. I would like to continue pursuing this area of ​​programming and, one day, become a full-stack developer. :)
+## 📚 Conteúdo Estudado
+
+### ✅ Conceitos Básicos
+- Variáveis
+- Tipos de dados
+- Operadores
+- Entrada e saída de dados
+- Comentários
+
+### 🔁 Estruturas de Controle
+- `if`, `elif`, `else`
+- `match case`
+- Laços `for`
+- Laços `while`
+
+### 📦 Estruturas de Dados
+- Listas
+- Tuplas
+- Dicionários
+- Conjuntos (`set`)
+
+### ⚙️ Funções
+- Definição de funções
+- Parâmetros
+- Retorno
+- Funções lambda
+
+### 📂 Manipulação de Arquivos
+- Leitura de arquivos
+- Escrita de arquivos
+- Context Manager (`with open`)
+
+### 🧠 Conceitos Intermediários
+- List Comprehension
+- Tratamento de exceções
+- Módulos e pacotes
+- Programação orientada a objetos (POO)
+
+---
+
+## 📁 Estrutura da Pasta
+
+```bash
+fundamentos-python/
+│
+├── basico/
+├── estruturas-condicionais/
+├── loops/
+├── listas-e-dicionarios/
+├── funcoes/
+├── arquivos/
+├── poo/
+└── desafios/
