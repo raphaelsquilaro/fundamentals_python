@@ -16,7 +16,6 @@ O objetivo é praticar lógica de programação, sintaxe da linguagem e conceito
 
 ### 🔁 Estruturas de Controle
 - `if`, `elif`, `else`
-- `match case`
 - Laços `for`
 - Laços `while`
 
@@ -24,25 +23,12 @@ O objetivo é praticar lógica de programação, sintaxe da linguagem e conceito
 - Listas
 - Tuplas
 - Dicionários
-- Conjuntos (`set`)
 
 ### ⚙️ Funções
 - Definição de funções
 - Parâmetros
 - Retorno
-- Funções lambda
-
-### 📂 Manipulação de Arquivos
-- Leitura de arquivos
-- Escrita de arquivos
-- Context Manager (`with open`)
-
-### 🧠 Conceitos Intermediários
-- List Comprehension
-- Tratamento de exceções
-- Módulos e pacotes
-- Programação orientada a objetos (POO)
-
+- 
 ---
 
 ## 📁 Estrutura da Pasta
